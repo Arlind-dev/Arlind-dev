@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-[![Rayleeigh GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arlind-dev&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Arlind-dev GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arlind-dev&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+-->
 
